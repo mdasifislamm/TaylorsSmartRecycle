@@ -42,9 +42,9 @@ const HomePage = () => {
       </div>
       
       {/* Footer */}
-      <div className="absolute bottom-2 text-xs text-gray-400">
-        © 2025 Taylor's University EcoTrack
-      </div>
+      <footer className="text-center text-gray-500 text-sm mt-8">
+        © 2025 Taylor's University GreenLoop
+      </footer>
     </Layout>
   );
 };

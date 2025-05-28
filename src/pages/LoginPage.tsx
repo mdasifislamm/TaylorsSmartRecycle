@@ -33,8 +33,8 @@ const LoginPage = () => {
         <div className="text-center mb-8">
           <Logo size="medium" className="mb-6 inline-block" />
           <h1 className="text-2xl font-bold text-gray-800 mb-2">Login</h1>
-          <p className="text-gray-600">
-            Access your Taylor's University EcoTrack account
+          <p className="text-gray-600 text-center mb-6">
+            Access your Taylor's University GreenLoop account
           </p>
         </div>
         

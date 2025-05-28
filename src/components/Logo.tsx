@@ -22,7 +22,7 @@ const Logo = ({ size = 'medium', className = '' }: LogoProps) => {
     <div className={`flex items-center ${className}`}>
       <Leaf className="text-green-500 mr-2" size={iconSizes[size]} />
       <span className={`font-bold ${sizeClasses[size]} text-gray-800`}>
-        Eco<span className="text-green-500">Track</span>
+        Green<span className="text-green-500">Loop</span>
       </span>
     </div>
   );
